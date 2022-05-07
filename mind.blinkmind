@@ -1,0 +1,771 @@
+{
+  "rootTopicKey": "036a5357-4020-4535-bf5b-fecdccc12d54",
+  "editorRootTopicKey": "036a5357-4020-4535-bf5b-fecdccc12d54",
+  "focusKey": "b707589b-c49b-44a3-a9b4-40c5fc34e34d",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "e417d58f-5044-4ebf-80bc-535f5f810eda",
+      "parentKey": "a910e708-390e-469f-a720-6babc67f43f8",
+      "subKeys": [
+        "daf38e72-ad75-4459-af3b-1d79978ae99d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "function"
+        }
+      ]
+    },
+    {
+      "key": "b707589b-c49b-44a3-a9b4-40c5fc34e34d",
+      "parentKey": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "event\n:function"
+        }
+      ]
+    },
+    {
+      "key": "802f0fde-1adb-4006-8573-ecfa8fe4685b",
+      "parentKey": "3dff6d87-55a6-4d2e-8228-5b1da2cde933",
+      "subKeys": [
+        "1e6fefe2-1c4d-461f-8eb0-f1d4b41fe4ce"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "  <Cars>Ford</Cars>"
+        }
+      ]
+    },
+    {
+      "key": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "parentKey": "c74a334b-3854-4131-b537-9dccd9db7d61",
+      "subKeys": [
+        "8bb9d191-3bea-4060-a5d6-a3dc56cc4099",
+        "cedfe5fb-562a-403f-929c-8288b9511ebf",
+        "612808c4-a182-485b-b083-adcefc24c726",
+        "b707589b-c49b-44a3-a9b4-40c5fc34e34d",
+        "4a6439c5-ddee-4715-9149-b8181141638b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "class"
+        }
+      ]
+    },
+    {
+      "key": "2858d2ff-1393-4fcd-b50b-68528e01eba2",
+      "parentKey": "f6ccb34c-1dca-4d28-b92a-cbeaf28dffb9",
+      "subKeys": [
+        "fc074d08-ac9d-4514-92a7-ac5036c0d4a7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "class App extends React.component {} "
+        }
+      ]
+    },
+    {
+      "key": "5a08ebf6-4a11-497f-9a27-fe17571a04b0",
+      "parentKey": "a910e708-390e-469f-a720-6babc67f43f8",
+      "subKeys": [
+        "7936f0d7-c07f-4480-8b4e-8fb87d4a76c4"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "class"
+        }
+      ]
+    },
+    {
+      "key": "689494e7-497f-436e-a389-092247c08fd0",
+      "parentKey": "610c4322-5e80-4315-98de-393cbc465cbc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "export default App;"
+        }
+      ]
+    },
+    {
+      "key": "46a37e18-ae5a-4b02-8bb1-a97ab14ff657",
+      "parentKey": "610c4322-5e80-4315-98de-393cbc465cbc",
+      "subKeys": [
+        "f6ccb34c-1dca-4d28-b92a-cbeaf28dffb9"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "component"
+        }
+      ]
+    },
+    {
+      "key": "450f9a3e-49a7-4beb-b707-92246fdbcb91",
+      "parentKey": "8e2661cd-3779-4c92-9b6a-3df823b3c096",
+      "subKeys": [
+        "c74a334b-3854-4131-b537-9dccd9db7d61",
+        "ee3532f9-4bf6-466f-bd61-8a5756eb3fbe"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Mycars.js"
+        }
+      ]
+    },
+    {
+      "key": "036a5357-4020-4535-bf5b-fecdccc12d54",
+      "parentKey": null,
+      "subKeys": [
+        "295a7ce9-077a-421f-a41a-3245dd26729d",
+        "58a36784-dd2f-4daa-a3d0-deb8c4d9e754"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "React"
+        }
+      ]
+    },
+    {
+      "key": "650c1c72-9b48-4190-b368-a4101cef576c",
+      "parentKey": "8bb9d191-3bea-4060-a5d6-a3dc56cc4099",
+      "subKeys": [
+        "03e1c312-a3b8-472d-9d90-44ebcc2bf40d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "method"
+        }
+      ]
+    },
+    {
+      "key": "b2c28b9a-059c-484b-a226-cb75893b9468",
+      "parentKey": "773a6b76-e729-4217-960a-7c13affe72c8",
+      "subKeys": [
+        "3dff6d87-55a6-4d2e-8228-5b1da2cde933",
+        "afaaf0d7-41b6-4c8d-b4dc-14aa948d67d4",
+        "86638f03-c9c2-4126-a2c0-727ff7916d7b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "function"
+        }
+      ]
+    },
+    {
+      "key": "ee3532f9-4bf6-466f-bd61-8a5756eb3fbe",
+      "parentKey": "450f9a3e-49a7-4beb-b707-92246fdbcb91",
+      "subKeys": [
+        "5d3b75e4-17f0-4fee-97de-0fdf703ad691"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "extern component"
+        }
+      ]
+    },
+    {
+      "key": "2213cac1-0ae9-43a0-82eb-03a2342740c9",
+      "parentKey": "c74a334b-3854-4131-b537-9dccd9db7d61",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "props:from App.js"
+        }
+      ]
+    },
+    {
+      "key": "72d3e6cd-5135-4b67-a817-a1e8d505c4e9",
+      "parentKey": "307066f8-fea6-4f3a-bae2-42cdb2d4d255",
+      "subKeys": [
+        "610c4322-5e80-4315-98de-393cbc465cbc",
+        "8e2661cd-3779-4c92-9b6a-3df823b3c096"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "App.js"
+        }
+      ]
+    },
+    {
+      "key": "4a6439c5-ddee-4715-9149-b8181141638b",
+      "parentKey": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "export default Mycars;"
+        }
+      ]
+    },
+    {
+      "key": "630176bc-70d4-4838-a37c-f5972db41e9b",
+      "parentKey": "58a36784-dd2f-4daa-a3d0-deb8c4d9e754",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "vertual Dom"
+        }
+      ]
+    },
+    {
+      "key": "610c4322-5e80-4315-98de-393cbc465cbc",
+      "parentKey": "72d3e6cd-5135-4b67-a817-a1e8d505c4e9",
+      "subKeys": [
+        "5b101d93-7f8c-496b-87e5-e8d7737ed6b5",
+        "0af42633-4e13-46ec-bc57-e64a80942c7a",
+        "46a37e18-ae5a-4b02-8bb1-a97ab14ff657",
+        "689494e7-497f-436e-a389-092247c08fd0"
+      ],
+      "collapse": true,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "intern"
+        }
+      ]
+    },
+    {
+      "key": "6ff7f3ab-6b29-43d1-997c-0c380cc447d9",
+      "parentKey": "c74a334b-3854-4131-b537-9dccd9db7d61",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "import"
+        }
+      ]
+    },
+    {
+      "key": "fa44cacd-6132-460d-a66e-4f5148a4dafc",
+      "parentKey": "fc80df0a-4eba-41ac-93a4-c1ac8471fba0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "color :"
+        }
+      ]
+    },
+    {
+      "key": "cedfe5fb-562a-403f-929c-8288b9511ebf",
+      "parentKey": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "render()"
+        }
+      ]
+    },
+    {
+      "key": "a910e708-390e-469f-a720-6babc67f43f8",
+      "parentKey": "58a36784-dd2f-4daa-a3d0-deb8c4d9e754",
+      "subKeys": [
+        "5a08ebf6-4a11-497f-9a27-fe17571a04b0",
+        "e417d58f-5044-4ebf-80bc-535f5f810eda"
+      ],
+      "collapse": true,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "componant"
+        }
+      ]
+    },
+    {
+      "key": "7936f0d7-c07f-4480-8b4e-8fb87d4a76c4",
+      "parentKey": "5a08ebf6-4a11-497f-9a27-fe17571a04b0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " state component"
+        }
+      ]
+    },
+    {
+      "key": "afdd6649-494e-4118-8c64-877eb4ac8e1e",
+      "parentKey": "f6ccb34c-1dca-4d28-b92a-cbeaf28dffb9",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "state "
+        }
+      ]
+    },
+    {
+      "key": "3dff6d87-55a6-4d2e-8228-5b1da2cde933",
+      "parentKey": "b2c28b9a-059c-484b-a226-cb75893b9468",
+      "subKeys": [
+        "802f0fde-1adb-4006-8573-ecfa8fe4685b",
+        "fc80df0a-4eba-41ac-93a4-c1ac8471fba0"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "props:{ }"
+        }
+      ]
+    },
+    {
+      "key": "3828f027-d78b-4c07-9ecb-6749f6a1acbe",
+      "parentKey": "daf38e72-ad75-4459-af3b-1d79978ae99d",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "- function\n- state(React Hooks)"
+        }
+      ]
+    },
+    {
+      "key": "612808c4-a182-485b-b083-adcefc24c726",
+      "parentKey": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "state"
+        }
+      ]
+    },
+    {
+      "key": "c74a334b-3854-4131-b537-9dccd9db7d61",
+      "parentKey": "450f9a3e-49a7-4beb-b707-92246fdbcb91",
+      "subKeys": [
+        "6ff7f3ab-6b29-43d1-997c-0c380cc447d9",
+        "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+        "2213cac1-0ae9-43a0-82eb-03a2342740c9"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "intern component"
+        }
+      ]
+    },
+    {
+      "key": "307066f8-fea6-4f3a-bae2-42cdb2d4d255",
+      "parentKey": "295a7ce9-077a-421f-a41a-3245dd26729d",
+      "subKeys": [
+        "72d3e6cd-5135-4b67-a817-a1e8d505c4e9"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "index.js"
+        }
+      ]
+    },
+    {
+      "key": "86638f03-c9c2-4126-a2c0-727ff7916d7b",
+      "parentKey": "b2c28b9a-059c-484b-a226-cb75893b9468",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "export default Cars;"
+        }
+      ]
+    },
+    {
+      "key": "5b101d93-7f8c-496b-87e5-e8d7737ed6b5",
+      "parentKey": "610c4322-5e80-4315-98de-393cbc465cbc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "transform to class"
+        }
+      ]
+    },
+    {
+      "key": "afaaf0d7-41b6-4c8d-b4dc-14aa948d67d4",
+      "parentKey": "b2c28b9a-059c-484b-a226-cb75893b9468",
+      "subKeys": [
+        "cb27d7d3-c417-444f-98e6-51b3872f657d",
+        "f6f6155b-53df-466d-a01f-478dd9ab052f"
+      ],
+      "collapse": true,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "return"
+        }
+      ]
+    },
+    {
+      "key": "fc074d08-ac9d-4514-92a7-ac5036c0d4a7",
+      "parentKey": "2858d2ff-1393-4fcd-b50b-68528e01eba2",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "render()\n{return component}"
+        }
+      ]
+    },
+    {
+      "key": "5d3b75e4-17f0-4fee-97de-0fdf703ad691",
+      "parentKey": "ee3532f9-4bf6-466f-bd61-8a5756eb3fbe",
+      "subKeys": [
+        "80bdffc7-61a6-472e-bdab-bb037c773695",
+        "773a6b76-e729-4217-960a-7c13affe72c8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Cars.js"
+        }
+      ]
+    },
+    {
+      "key": "773a6b76-e729-4217-960a-7c13affe72c8",
+      "parentKey": "5d3b75e4-17f0-4fee-97de-0fdf703ad691",
+      "subKeys": [
+        "b2c28b9a-059c-484b-a226-cb75893b9468"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "intern component"
+        }
+      ]
+    },
+    {
+      "key": "8bb9d191-3bea-4060-a5d6-a3dc56cc4099",
+      "parentKey": "1dbcfea5-4fbb-4b72-86de-9450cb346e21",
+      "subKeys": [
+        "650c1c72-9b48-4190-b368-a4101cef576c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "class Mycars extends Component { }"
+        }
+      ]
+    },
+    {
+      "key": "f6ccb34c-1dca-4d28-b92a-cbeaf28dffb9",
+      "parentKey": "46a37e18-ae5a-4b02-8bb1-a97ab14ff657",
+      "subKeys": [
+        "2858d2ff-1393-4fcd-b50b-68528e01eba2",
+        "afdd6649-494e-4118-8c64-877eb4ac8e1e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "class"
+        }
+      ]
+    },
+    {
+      "key": "0af42633-4e13-46ec-bc57-e64a80942c7a",
+      "parentKey": "610c4322-5e80-4315-98de-393cbc465cbc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "import"
+        }
+      ]
+    },
+    {
+      "key": "03e1c312-a3b8-472d-9d90-44ebcc2bf40d",
+      "parentKey": "650c1c72-9b48-4190-b368-a4101cef576c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Mycars.render()\n{return  JSX.Element}"
+        }
+      ]
+    },
+    {
+      "key": "8e2661cd-3779-4c92-9b6a-3df823b3c096",
+      "parentKey": "72d3e6cd-5135-4b67-a817-a1e8d505c4e9",
+      "subKeys": [
+        "450f9a3e-49a7-4beb-b707-92246fdbcb91"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "extern component"
+        }
+      ]
+    },
+    {
+      "key": "fc80df0a-4eba-41ac-93a4-c1ac8471fba0",
+      "parentKey": "3dff6d87-55a6-4d2e-8228-5b1da2cde933",
+      "subKeys": [
+        "fa44cacd-6132-460d-a66e-4f5148a4dafc"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "  <Cars color=\"red\">Ford</Cars>"
+        }
+      ]
+    },
+    {
+      "key": "f6f6155b-53df-466d-a01f-478dd9ab052f",
+      "parentKey": "afaaf0d7-41b6-4c8d-b4dc-14aa948d67d4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "const Cars: () => JSX.Element"
+        }
+      ]
+    },
+    {
+      "key": "295a7ce9-077a-421f-a41a-3245dd26729d",
+      "parentKey": "036a5357-4020-4535-bf5b-fecdccc12d54",
+      "subKeys": [
+        "307066f8-fea6-4f3a-bae2-42cdb2d4d255"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "app-react(index.html)"
+        }
+      ]
+    },
+    {
+      "key": "daf38e72-ad75-4459-af3b-1d79978ae99d",
+      "parentKey": "e417d58f-5044-4ebf-80bc-535f5f810eda",
+      "subKeys": [
+        "3828f027-d78b-4c07-9ecb-6749f6a1acbe"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "presentation (UI) Component"
+        }
+      ]
+    },
+    {
+      "key": "cb27d7d3-c417-444f-98e6-51b3872f657d",
+      "parentKey": "afaaf0d7-41b6-4c8d-b4dc-14aa948d67d4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "style={{}}"
+        }
+      ]
+    },
+    {
+      "key": "58a36784-dd2f-4daa-a3d0-deb8c4d9e754",
+      "parentKey": "036a5357-4020-4535-bf5b-fecdccc12d54",
+      "subKeys": [
+        "630176bc-70d4-4838-a37c-f5972db41e9b",
+        "a910e708-390e-469f-a720-6babc67f43f8"
+      ],
+      "collapse": true,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "structure"
+        }
+      ]
+    },
+    {
+      "key": "1e6fefe2-1c4d-461f-8eb0-f1d4b41fe4ce",
+      "parentKey": "802f0fde-1adb-4006-8573-ecfa8fe4685b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "children :"
+        }
+      ]
+    },
+    {
+      "key": "80bdffc7-61a6-472e-bdab-bb037c773695",
+      "parentKey": "5d3b75e4-17f0-4fee-97de-0fdf703ad691",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "import"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "34px",
+          "borderRadius": "30px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderRadius": "15px",
+          "fontSize": 20,
+          "padding": "10px 15px 10px 15px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "rgb(113, 203, 45)"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "fontSize": 17,
+          "padding": "4px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px",
+          "lineColor": "white"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
